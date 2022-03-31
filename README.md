@@ -2,6 +2,7 @@
 #Exercício 6 de DS#
 
 Exercício 1: Escreva um programa que apresente o seguinte menu para o usuário: 
+<li>
 1 – Cadastrar de Carro 
 2 – Cadastro de Caminhão 
 3 – Consulta por placa 
@@ -10,6 +11,7 @@ Exercício 1: Escreva um programa que apresente o seguinte menu para o usuário:
 6 – Exibir todos os Carros cadastrados 
 7 – Exibir todos os Caminhões cadastrados 
 0 – Sair 
+</li>
 O usuário deverá cadastrar vários carros e/ou caminhões até um máximo de 500 veículos, portanto deverá ser utilizado um vetor de 300 posições para Carro e outro vetor de 200 posições para Caminhões. 
 Neste exercício, deve ser criada a seguinte estrutura de classe.
  
