@@ -2,9 +2,8 @@
 #Exercício 6 de DS#
 
 Exercício 1: Escreva um programa que apresente o seguinte menu para o usuário: 
-<li>
-1 – Cadastrar de Carro 
-2 – Cadastro de Caminhão 
+<li>1 – Cadastrar de Carro</li> 
+<li>2 – Cadastro de Caminhão </li>
 3 – Consulta por placa 
 4 – Consulta Caminhão por modelo/marca 
 5 – Consultar Carro por cor (deverá listar todos os carros cuja cor será digitada pelo usuário) 
